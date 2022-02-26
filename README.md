@@ -1,1 +1,1 @@
-# input-type
+# INPUT TYPE
